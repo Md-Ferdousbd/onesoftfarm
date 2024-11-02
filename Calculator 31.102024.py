@@ -19,5 +19,5 @@ else :
 print("The result is ", result)
 print("thank you for using my first software ")
 print(" Developed by One Software Farm ")
-print("www.drmdferdous.com, WhatsApp: +8801681519799")
+
 
